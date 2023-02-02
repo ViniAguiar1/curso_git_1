@@ -3,4 +3,4 @@ Testando repo 2
 22
 =======
 Testando repo 2 (mais uma pro clone)
->>>>>>> c0985846a5b5f95abdd6f2e87b1acf878d1f3556
+>>>>>>> c0985846a5b5f95abdd6f2e87b1acf878d1f
